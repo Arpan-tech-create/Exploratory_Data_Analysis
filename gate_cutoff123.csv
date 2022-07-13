@@ -1,8 +1,8 @@
-Sr No,PaperName,Paper Code,GEN,OBC,SC/ST,Year
+SrNo,PaperName,Paper Code,GEN,OBC,SC_ST,Year
 1,Life Sciences,XL,31.7,28.5,21.1,2020
 2,Civil Engineering,CE,32.9,29.6,21.9,2020
 3,Electrical Engineering,EE,33.4,30,22.2,2020
-4,Computer Science and Information Technology,CS,28.5,25.6,19,2020
+4,CS_IT,CS,28.5,25.6,19,2020
 5,Mechanical Engineering,ME,34,30.6,22.6,2020
 6,Petroleum Engineering,PE,39.8,35.8,26.5,2020
 7,Electronics and Communication Engineering,EC,28.8,25.9,19.2,2020
@@ -26,7 +26,7 @@ Sr No,PaperName,Paper Code,GEN,OBC,SC/ST,Year
 25,Life Sciences,XL,36.7,33,24.5,2019
 26,Civil Engineering,CE,28.2,25.4,18.8,2019
 27,Electrical Engineering,EE,39.6,35.6,26.4,2019
-28,Computer Science and Information Technology,CS,29.5,26.6,19.7,2019
+28,CS_IT,CS,29.5,26.6,19.7,2019
 29,Mechanical Engineering,ME,34.1,30.7,22.7,2019
 30,Petroleum Engineering,PE,49.9,44.9,33.3,2019
 31,Electronics and Communication Engineering,EC,26.7,24,17.8,2019
@@ -53,7 +53,7 @@ Sr No,PaperName,Paper Code,GEN,OBC,SC/ST,Year
 52,Biotechnology,BT,27.9,25.1,18.5,2018
 53,Civil Engineering,CE,26.9,24.2,17.9,2018
 54,Chemical Engineering,CH,37.8,34,25.1,2018
-55,Computer Science and Information Technology,CS,25,22.5,16.6,2018
+55,CS_IT,CS,25,22.5,16.6,2018
 56,Chemistry,CY,25.4,22.8,16.9,2018
 57,Electronics and Communication Engineering,EC,25,22.5,16.6,2018
 58,Electrical Engineering,EE,29.1,26.1,19.4,2018
@@ -82,13 +82,13 @@ Sr No,PaperName,Paper Code,GEN,OBC,SC/ST,Year
 81,Civil Engineering,CE,25,22.5,16.6,2016
 82,Electrical Engineering,EE,25.1,22.5,16.7,2016
 83,Electronics and Communication Engineering ,EC,25,22.5,16.6,2016
-84,Computer Science and Information Technology,CS,25,22.5,16.6,2016
+84,CS_IT,CS,25,22.5,16.6,2016
 85,Instrumentation Engineering ,IN,31.6,28.4,21,2016
 86,Production and Industrial Engineering,PI,26.4,23.7,17.5,2016
 87,Mechanical Engineering,ME,32.73,29.46,21.82,2015
 88,Civil Engineering,CE,25,22.5,16.67,2015
 89,Electrical Engineering,EE,25,22.5,16.67,2015
 90,Electronics and Communication Engineering,EC,25,22.5,16.67,2015
-91,Computer Science and Information Technology,CS,25,22.5,16.67,2015
+91,CS_IT,CS,25,22.5,16.67,2015
 92,Instrumentation Engineering,IN,25.45,22.9,16.96,2015
 93,Production and Industrial Engineering,PI,26.82,24.14,17.88,2015
